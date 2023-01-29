@@ -1,0 +1,19 @@
+// Pide dos números por teclado, los suma y muestra el resultado
+
+import javax.swing.JOptionPane;
+
+public class Ejercicio_3 {
+	public static void main (String[] args){
+	
+		float numero1, numero2;
+		
+		JOptionPane.showInputDialog("introduzca 1 numero");
+		
+	
+		
+		
+		
+	}
+	
+
+}
